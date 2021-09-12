@@ -7,7 +7,7 @@ Linux, computer operating system was created in the early 1990s by Finnish softw
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
-###Linux vs Unix
+### Linux vs Unix
 ---------------------
 Unix refers to the original operating system developed at AT&T. Generally it refers to the family of derived operating systems that we now know as linux
 
