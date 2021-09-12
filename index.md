@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# TCMG Group 2
+
+## Linux History - Collin's Portion
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
