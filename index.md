@@ -7,6 +7,13 @@ Linux, computer operating system was created in the early 1990s by Finnish softw
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
+### Linux Facts
+-There are 20,323,379 lines of code in the Linux kernel as of 2018
+-It is still the smallest kernal
+-Largest open sourse project in the world
+-Linux is used my every major space station
+-100% of the world supercomputers run Lunix
+
 ## Common Commands - Gustavo's and Mahmoud's Portion
 
 There are lots of commands!
