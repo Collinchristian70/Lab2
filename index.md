@@ -10,10 +10,19 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 ## Common Commands - Gustavo's Portion
 
 
-There are lots of commands! People use commands to 
+There are lots of commands! You use commands to navigate your way through the command line. You don't need to memorize them all, but it is good to know your most used ones. 
+
+1. git clone {insert url}
+	- This command is used to clone a repository using the link provided on GitHub
+	
+2. git add {file.txt}
+	- This command adds a file
+	
+3. git rm {file.txt}
+	- This command removes a file
 
 ## Common Commands - Mahmoud's Portion
-Here are some of hte commands!
+Here are some of the commands!
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
