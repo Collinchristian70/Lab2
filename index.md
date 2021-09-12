@@ -2,7 +2,7 @@
 
 ## Linux History - Collin's Portion
 
-## Common Commands - Gustavo
+## Common Commands - Gustavo Garcia
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
