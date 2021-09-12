@@ -5,7 +5,7 @@ Linux was released by Linus Torvald in 1991. It was intended to be free of cost 
 
 ## Common Commands - Gustavo's and Mahmoud's Portion
 
-There are lots of commands.
+There are lots of commands!
 
 ## 
 
