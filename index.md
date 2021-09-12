@@ -1,6 +1,7 @@
 # TCMG Group 2
 
 ## Linux History - Collin's, Edith's, Konnor's Portion
+Linux was released by Linus Torvald in 1991. It was intended to be free if cost and free to modify under GNU (General Public License)
 
 ## Common Commands - Gustavo Garcia
 
