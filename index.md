@@ -9,7 +9,6 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 
 ## Common Commands - Gustavo's Portion
 
-
 There are lots of commands! You use commands to navigate your way through the command line. You don't need to memorize them all, but it is good to know your most used ones. 
 
 1. git clone {insert url}
@@ -23,7 +22,6 @@ There are lots of commands! You use commands to navigate your way through the co
 
 ## Common Commands - Mahmoud's Portion
 
-
 Here are some more commands!
 
 1. git status 
@@ -34,10 +32,6 @@ Here are some more commands!
 
 3. git checkout {branch name}
 	- To start working in a differnet branch, use git checkout to switch branches
-
-You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -67,6 +61,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Collinchristian70/Lab2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Group Members
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Antonio, Collin, Edith, Gustavo, Konnor, Mahmoud
