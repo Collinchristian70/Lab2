@@ -18,8 +18,6 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 ## Common Commands - Gustavo's and Mahmoud's Portion
 =======
 ## Common Commands - Gustavo's Portion
->>>>>>> 716ccc9b13c7dc240a802651b727a71b68b1c680
-
 
 There are lots of commands! You use commands to navigate your way through the command line. You don't need to memorize them all, but it is good to know your most used ones. 
 
