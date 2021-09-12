@@ -22,7 +22,18 @@ There are lots of commands! You use commands to navigate your way through the co
 	- This command removes a file
 
 ## Common Commands - Mahmoud's Portion
-Here are some of the commands!
+
+
+Here are some more commands!
+
+1. git status 
+	- This command returns the current state of the repository
+
+2. git branch {branch name}
+	- To determine what branch the local repository is on, add a new branch, or delete a branch
+
+3. git checkout {branch name}
+	- To start working in a differnet branch, use git checkout to switch branches
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
