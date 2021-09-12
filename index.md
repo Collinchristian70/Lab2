@@ -3,9 +3,11 @@
 ## Linux History - **Collin's**, Edith's, Konnor's Portion
 ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTux_(mascot)&psig=AOvVaw3GXBVeTyzZAvrbq00MkTDG&ust=1631556837344000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiRvoKF-vICFQAAAAAdAAAAABAD)
 
+<img src="Lab2/penguin.jpg" alt="hi" class="inline"/>
+
 Linux, computer operating system was created in the early 1990s by Finnish software engineer Linus Torvalds and the Free Software Foundation (FSF). While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX, a UNIX operating system. In 1991 he released version 0.02; Version 1.0 of the Linux kernel, the core of the operating system, was released in 1994. About the same time, American software developer Richard Stallman and the FSF made efforts to create an open-source UNIX-like operating system called GNU.
 
-Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
+Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes. Since it is open source, and thus modifiable for different uses, Linux is popular for systems as diverse as cellular telephones and supercomputers. The addition of user-friendly desktop environments, office suites, Web browsers, and even games helped to increase Linux’s popularity and make it more suitable for home and office desktops. New distributions (packages of Linux software) were created throughout the 1990s. Some of the more well-known distributions include Red Hat, Debian, and Slackware.
 
 ## Common Commands - Gustavo's and Mahmoud's Portion
 
