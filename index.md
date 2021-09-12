@@ -1,7 +1,7 @@
 # TCMG Group 2
 
 ## Linux History - **Collin's**, Edith's, Konnor's Portion
-![image](penguin.jpg)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTux_(mascot)&psig=AOvVaw3GXBVeTyzZAvrbq00MkTDG&ust=1631556837344000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiRvoKF-vICFQAAAAAdAAAAABAD)
 
 Linux was released by Linus Torvald in 1991. It was intended to be free of cost and free to modify under GNU (General Public License)
 
