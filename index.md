@@ -7,7 +7,8 @@ Linux, computer operating system was created in the early 1990s by Finnish softw
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
-## Common Commands - Gustavo's and Mahmoud's Portion 1
+## Common Commands - Gustavo's Portion
+## Common Commands - Mahmoud's Portion 1
 
 There are lots of commands! People use commands to 
 
