@@ -7,7 +7,6 @@ Linux, computer operating system was created in the early 1990s by Finnish softw
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
-<<<<<<< HEAD
 ### Linux Facts
 - There are 20,323,379 lines of code in the Linux kernel as of 2018
 - It is still the smallest kernal
@@ -15,8 +14,6 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 - Linux is used my every major space station
 - 100% of the world supercomputers run Lunix
 
-## Common Commands - Gustavo's and Mahmoud's Portion
-=======
 ## Common Commands - Gustavo's Portion
 
 There are lots of commands! You use commands to navigate your way through the command line. You don't need to memorize them all, but it is good to know your most used ones. 
@@ -32,7 +29,6 @@ There are lots of commands! You use commands to navigate your way through the co
 
 ## Common Commands - Mahmoud's Portion
 
-
 Here are some more commands!
 
 1. git status 
@@ -44,8 +40,6 @@ Here are some more commands!
 3. git checkout {branch name}
 	- To start working in a differnet branch, use git checkout to switch branches
 
+### Group Members
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Antonio, Collin, Edith, Gustavo, Konnor, Mahmoud.
