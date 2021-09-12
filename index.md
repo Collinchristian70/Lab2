@@ -2,7 +2,11 @@
 
 ## Linux History - Collin's, Edith's, Konnor's Portion
 
-## Common Commands - Gustavo Garcia
+## Common Commands - Gustavo's and Mahmoud's Portion
+
+There are lots of commands.
+
+## 
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
