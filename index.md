@@ -3,7 +3,8 @@
 ## Linux History - Collin's, Edith's, Konnor's Portion
 Linux was released by Linus Torvald in 1991. It was intended to be free of cost and free to modify under GNU (General Public License)
 
-## Common Commands - Gustavo's and Mahmoud's Portion 1
+## Common Commands - Gustavo's Portion
+## Common Commands - Mahmoud's Portion 1
 
 There are lots of commands! People use commands to 
 
