@@ -1,12 +1,13 @@
 # TCMG Group 2
 
 ## Linux History - **Collin's**, Edith's, Konnor's Portion
-[image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTux_(mascot)&psig=AOvVaw3GXBVeTyzZAvrbq00MkTDG&ust=1631556837344000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiRvoKF-vICFQAAAAAdAAAAABAD)
+![image](https://upload.wikimedia.org/wikipedia/commons/0/09/Tux%2C_gray%EF%BC%8Fgrey_background.png)
 
 Linux, computer operating system was created in the early 1990s by Finnish software engineer Linus Torvalds and the Free Software Foundation (FSF). While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX, a UNIX operating system. In 1991 he released version 0.02; Version 1.0 of the Linux kernel, the core of the operating system, was released in 1994. About the same time, American software developer Richard Stallman and the FSF made efforts to create an open-source UNIX-like operating system called GNU.
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
+<<<<<<< HEAD
 ### Linux Facts
 -There are 20,323,379 lines of code in the Linux kernel as of 2018
 -It is still the smallest kernal
@@ -15,10 +16,14 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 -100% of the world supercomputers run Lunix
 
 ## Common Commands - Gustavo's and Mahmoud's Portion
+=======
+## Common Commands - Gustavo's Portion
+>>>>>>> 716ccc9b13c7dc240a802651b727a71b68b1c680
 
-There are lots of commands!
 
-## 
+There are lots of commands! People use commands to 
+
+## Common Commands - Mahmoud's Portion 1
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
