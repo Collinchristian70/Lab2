@@ -3,7 +3,7 @@
 ## Linux History - **Collin's**, Edith's, Konnor's Portion
 ![image](penguin.jpg)
 
-Linux was released by Linus Torvald in 1991. It was intended to be free of cost and free to modify under GNU (General Public License)
+Linux, computer operating system was created in the early 1990s by Finnish software engineer Linus Torvalds and the Free Software Foundation (FSF). While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX, a UNIX operating system. In 1991 he released version 0.02; Version 1.0 of the Linux kernel, the core of the operating system, was released in 1994. About the same time, American software developer Richard Stallman and the FSF made efforts to create an open-source UNIX-like operating system called GNU.
 
 ## Common Commands - Gustavo's and Mahmoud's Portion
 
