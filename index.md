@@ -1,6 +1,6 @@
 # TCMG Group 2
 
-## Linux History - Collin's Portion
+## Linux History - Collin's, Edith's, Konnor's Portion
 
 ## Common Commands - Gustavo
 
