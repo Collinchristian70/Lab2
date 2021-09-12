@@ -63,4 +63,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Group Members
 
-Antonio, Collin, Edith, Gustavo, Konnor, Mahmoud
+Antonio, Collin, Edith, Gustavo, Konnor, Mahmoud.
