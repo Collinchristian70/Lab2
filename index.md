@@ -1,7 +1,7 @@
 # TCMG Group 2
 
 ## Linux History - **Collin's**, Edith's, Konnor's Portion
-![image](https://upload.wikimedia.org/wikipedia/commons/0/09/Tux%2C_gray%EF%BC%8Fgrey_background.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/0/09/Tux%2C_gray%EF%BC%8Fgrey_background.png)/>
 
 Linux, computer operating system was created in the early 1990s by Finnish software engineer Linus Torvalds and the Free Software Foundation (FSF). While still a student at the University of Helsinki, Torvalds started developing Linux to create a system similar to MINIX, a UNIX operating system. In 1991 he released version 0.02; Version 1.0 of the Linux kernel, the core of the operating system, was released in 1994. About the same time, American software developer Richard Stallman and the FSF made efforts to create an open-source UNIX-like operating system called GNU.
 
