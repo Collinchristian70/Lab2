@@ -7,11 +7,21 @@ Linux, computer operating system was created in the early 1990s by Finnish softw
 
 Linux grew throughout the 1990s because of the efforts of hobbyist developers. Although Linux is not as user-friendly as the popular Microsoft Windows and Mac OS operating systems, it is an efficient and reliable system that rarely crashes.
 
+### Linux vs Unix
+---------------------
+Unix refers to the original operating system developed at AT&T. Generally it refers to the family of derived operating systems that we now know as linux
+
+Linux was the original software that was developed by Linus Torvalds but the Unix trademark is certified by the open group.
+
+The Linux Standard Base (LSB), available as ISO/IEC 23360, is a standardization effort by a number of Linux distributors. LSB is mostly an extension of POSIX but has some differences. However, there isn’t a strong need for LSB certification as the various distributions use the same kernel in any case.
+
+UNIX certification based on the ‘Single Unix Specification’ which is an extension of IEEE 1003 (POSIX), also available as ISO/IEC 9945. POSIX specifies programming APIs and shell and utility interfaces. POSIX was developed as a way to allow interoperability between different UNIX vendors.
+
 ### Linux Facts
 - There are 20,323,379 lines of code in the Linux kernel as of 2018
 - It is still the smallest kernal
 - Largest open sourse project in the world
-- Linux is used my every major space station
+- Linux is used by every major space station
 - 100% of the world supercomputers run Lunix
 
 ## Common Commands - Gustavo's Portion
@@ -44,3 +54,5 @@ Here are some more commands!
 ### Group Members
 
 Antonio, Collin, Edith, Gustavo, Konnor, Mahmoud.
+
+![image](https://technastic.com/wp-content/uploads/2018/07/Windows-better-linux.jpg)
