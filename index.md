@@ -12,7 +12,7 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 
 There are lots of commands! People use commands to 
 
-## Common Commands - Mahmoud's Portion
+## Common Commands - Mahmoud's Portion 1
 
 You can use the [editor on GitHub](https://github.com/Collinchristian70/Lab2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
