@@ -18,11 +18,21 @@ The Linux Standard Base (LSB), available as ISO/IEC 23360, is a standardization 
 UNIX certification based on the ‘Single Unix Specification’ which is an extension of IEEE 1003 (POSIX), also available as ISO/IEC 9945. POSIX specifies programming APIs and shell and utility interfaces. POSIX was developed as a way to allow interoperability between different UNIX vendors.
 
 ### Linux Facts
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzLcLUVc6mh1BJ263lHrjYSyuMeRPLB2LvUg&usqp=CAU)
+
 - There are 20,323,379 lines of code in the Linux kernel as of 2018
+- The first Linux Kernal, version 0.01 had just 10,239 lines of code
+- Lunix had surpasses one million code commits
 - It is still the smallest kernal
 - Largest open sourse project in the world
 - Linux is used by every major space station
-- 100% of the world supercomputers run Lunix
+- 100% of the world 500 fastest supercomputers run Lunix
+- The first ever Lunix kernal was only 65KB
+- There are 278 active Lunix distrobutions
+- Over 80% of Lunix contributions come form developers paid by big enterprises. 
+- Microsoft is among one of the biggest contributors to Lunix kernel
+
 
 ## Common Commands - Gustavo's Portion
 
