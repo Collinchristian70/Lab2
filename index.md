@@ -9,7 +9,7 @@ Linux grew throughout the 1990s because of the efforts of hobbyist developers. A
 
 ### Linux vs Unix
 ---------------------
-Unix refers to the original operating system developed at AT&T. Generally it refers to the family of derived operating systems that we now know as linux
+Unix refers to the original operating system developed by AT&T. Generally it refers to the family of operating systems derived from the original version that we now know as linux.
 
 Linux was the original software that was developed by Linus Torvalds but the Unix trademark is certified by the open group.
 
