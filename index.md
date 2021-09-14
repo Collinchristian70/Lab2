@@ -60,6 +60,19 @@ Here are some more commands!
 
 3. git checkout {branch name}
 	- To start working in a differnet branch, use git checkout to switch branches
+	
+## Usefull commands - Antonio's portion 
+
+These commands are a little less common but are still extremely usefull. 
+
+1. git force pull 
+	- This command overwrites the local changes youve made with the original code from the git pull. 
+	
+2. git undo merge 
+	- This command does exactly what it sounds like, use it if you want to abort a merge you just commited. 
+	
+3. git delete tag 
+	- This command is used to remove a tag, maybe in the event of a bad release. 
 
 ### Group Members
 
