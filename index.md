@@ -61,7 +61,7 @@ Here are some more commands!
 3. git checkout {branch name}
 	- To start working in a differnet branch, use git checkout to switch branches
 	
-## Usefull commands - Antonio's portion 
+## Useful commands - Antonio's portion 
 
 These commands are a little less common but are still extremely usefull. 
 
